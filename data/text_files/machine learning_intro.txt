@@ -1,0 +1,6 @@
+machine learning basics
+
+Machine learning is a type of artificial intelligence where computers learn from data instead of using rigid rules written by humans. The three core approaches are supervised learning, unsupervised learning, and reinforcement learning
+Core Types of Machine Learning
+Supervised Learning: Trains on labeled data (input and correct output provided) to predict values or categories, such as linear regression or spam filters.
+Unsupervised Learning: Finds hidden patterns or groups in unlabeled data, such as customer clustering or market segmentation.
