@@ -177,10 +177,6 @@ API_KEY=your_api_key_here
 
 Use the exact environment variable required by the model provider configured in the project.
 
-### ⚠️ Important
-
-**Never commit API keys or `.env` files to GitHub.**
-
 Add the following to `.gitignore`:
 
 ```text
